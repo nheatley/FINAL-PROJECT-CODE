@@ -1,0 +1,149 @@
+body {
+  font-family: "Poppins", Arial, sans-serif;
+  font-weight: 300;
+  font-size: 17px;
+  line-height: 1.5;
+  color: gray;
+  background: #fff; 
+
+  }
+
+#sliderSection {
+border-bottom: blue 3px solid;
+}
+
+h3 {
+padding-top:10px;
+}
+
+#experiencedTitle {
+padding-top:20px;
+font-size:20px;
+}
+
+.wrapper { 
+overflow-x: auto; 
+}
+
+.wrapper table {
+ white-space: nowrap;
+}
+
+#workoutDiv {
+border-bottom: blue 3px solid;
+}
+
+#informationSection {
+padding-top:15px;
+border-top: blue 3px solid;
+}
+#accountOptions {
+padding-top: 60px;
+}
+
+
+.navDropButton {
+margin-right:56px; 
+}
+
+#footerSection {
+border-top: white 2px solid;
+padding-top:15px;
+background-color:blue;
+border-bottom: gray 4px solid;
+}
+
+#aboutSection {
+padding-top: 15px;
+background-color: #696969;
+text-align: center;
+}
+#navHeader {
+border-bottom: white 3px solid;
+
+}
+#experiencedTrainers {
+border-bottom: blue 3px solid;
+}
+
+.nav-item {
+  text-align: right;
+}
+
+#navTitle {
+font-family: arial;
+}
+#navTitle:hover {
+font-size:25px;
+}
+
+#regDiv {
+text-align: center;
+padding-bottom:15px;
+margin:auto;
+
+}
+
+.formGroup {
+font-size:10px;
+}
+
+#navbar{
+  overflow: hidden;
+  width: 100%; /* Full width */
+  border-bottom: gray 3px solid;
+}
+
+.accountDetails {
+margin:auto;
+}
+
+#signUpTitle {
+padding-top:10px;
+padding-bottom: 10px;
+}
+
+#experiencedTitle2 {
+font-size:15px;
+padding-bottom:10px;
+
+}
+
+.carousel-caption {
+height: 70%;
+color:white;
+}
+
+.contactList {
+font-size: 12px;
+color: white;
+}
+
+.nav-link:hover {
+font-size: 20px;
+}
+
+.carouselCaption {
+font-size:15px;
+}
+
+#jumbotronHome {
+padding-top: 15px;
+}
+
+#trainerSect {
+padding-bottom:15px;
+}
+
+#experiencedTrainers {
+padding-top:0px;
+}
+
+#deets {
+float:right;
+}
+
+#accountNav {
+background-color:gray;
+text-align:center;
+}
